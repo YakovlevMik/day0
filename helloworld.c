@@ -9,7 +9,7 @@ int main()
 	int y = 10; // both together
 
 	int z = x+y;
-	printf("hello world %d",z);
+	printf("hello world %d + %d = %d",x,y,z);
 
 	return 0;
 }
